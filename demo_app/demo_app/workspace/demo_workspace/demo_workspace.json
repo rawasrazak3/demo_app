@@ -1,0 +1,48 @@
+{
+ "cards_label": "LINK CARD",
+ "category": "Modules",
+ "charts": [],
+ "creation": "2022-09-25 16:08:52.629959",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "DEMO WORKSPACE",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Demo doctype",
+   "link_to": "Demo doctype",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2022-10-05 15:46:05.990125",
+ "modified_by": "Administrator",
+ "module": "Demo App",
+ "name": "DEMO WORKSPACE",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "DEMO",
+   "link_to": "Demo doctype",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "DAshboard",
+   "link_to": "Demo Dashboard",
+   "type": "Dashboard"
+  }
+ ]
+}
